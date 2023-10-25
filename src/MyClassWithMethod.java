@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class MyClassWithMethod {
+public class MyClassWithMethod {
+    public void print(String s){
+        System.out.println(s);
+    }
+
 }
